@@ -1,0 +1,12 @@
+{
+    "monika@123": [
+        {
+            "username": "monika",
+            "password": "monika@123",
+            "description": "uy",
+            "dob": "2/7/2003",
+            "hobbies": "dancing",
+            "gender": "male"
+        }
+    ]
+}
